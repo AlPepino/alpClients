@@ -16,6 +16,7 @@ namespace alpClients
             // Kód, který je spuštěn při spuštění aplikace
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
         }
     }
 }
